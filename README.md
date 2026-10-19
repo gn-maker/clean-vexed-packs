@@ -25,4 +25,8 @@ Each pack is an INI file: a `[General]` section (`Author`, `URL`, `Description`)
 
 ## Playing them
 
-The packs can be imported into Vexed-style games that read this format, such as Baffled.
+The packs can be imported into Vexed-style games that read this format, such as Baffled. Baffled's Get Packs downloads them from here.
+
+## The index
+
+`index.json` lists the packs for apps that download them: the credits, then for each pack its name, author, level count, size in bytes, SHA-256 and download URL. After changing `packs/`, regenerate it from the repository root with `python3 tools/make_index.py` and commit both.

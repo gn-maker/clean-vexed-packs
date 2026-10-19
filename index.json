@@ -1,0 +1,389 @@
+{
+  "credits": "From Vexed by James A. McCombe and the Vexed Development Team, as released in Vexed for Windows by John G. Zvonar. Licensed under the GNU GPL, version 2: github.com/gn-maker/clean-vexed-packs",
+  "packs": [
+    {
+      "name": "Children's Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 6312,
+      "sha256": "6ae620c2639d081d3b55872ccdb51a11e1c354cba5256367aa2c194a07b6ecbe",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Children%27s%20Pack.ini"
+    },
+    {
+      "name": "Classic II Levels",
+      "author": "Steve Haynal",
+      "levels": 59,
+      "size": 9696,
+      "sha256": "087a28d634bd32d92c898a378921a16f4c30901b9819ecfeea425ecd6ffd56ad",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Classic%20II%20Levels.ini"
+    },
+    {
+      "name": "Classic Levels",
+      "author": "James A. McCombe",
+      "levels": 59,
+      "size": 7283,
+      "sha256": "f7ee5c1a78f7e74a2a4f2a5b8bca77c14857c61004feea5db22a778bcf4452fc",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Classic%20Levels.ini"
+    },
+    {
+      "name": "Confusion Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 9031,
+      "sha256": "dc632ad04c1af59a90a46c9e41585d720292d62cc5c07ea2d07a4e367e9face6",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Confusion%20Pack.ini"
+    },
+    {
+      "name": "Impossible Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 12282,
+      "sha256": "469f47375efee575e1326b04b899ad80b7c52cc3232469a17cb5808d6cc202ab",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Impossible%20Pack.ini"
+    },
+    {
+      "name": "Panic Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 10345,
+      "sha256": "64ed8de6ad76ea08ae29e0bb30ce78dcd94c769bb9b5dcc3b5c0bda6bfe6cd03",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Panic%20Pack.ini"
+    },
+    {
+      "name": "Twister Levels",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8303,
+      "sha256": "5cebb5e3119220b4298688f16d8b4dd0fff9deece9dbc6af8f8a8420c8a4d72c",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Twister%20Levels.ini"
+    },
+    {
+      "name": "Variety 1 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8004,
+      "sha256": "2107bf38ac79bc4ba1e384fed78c9a86be9a2673fab66ac2141fe86be9881c46",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%201%20Pack.ini"
+    },
+    {
+      "name": "Variety 2 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7991,
+      "sha256": "c557c992ad33a74c637ed557c3cd61a05a76dd761626bbd607cde18f660a6e27",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%202%20Pack.ini"
+    },
+    {
+      "name": "Variety 3 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7963,
+      "sha256": "768d673729ff85a6e406a5abf0b4aadce56c192f3dea889fd6f0025a83ac8aa0",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%203%20Pack.ini"
+    },
+    {
+      "name": "Variety 4 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7780,
+      "sha256": "6b4a9237ccdd5e496f0ee2ee355147ebd0810f67818acf97bbbf184ce9d31798",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%204%20Pack.ini"
+    },
+    {
+      "name": "Variety 5 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7622,
+      "sha256": "5916bf3e02f3f2e1d9df78b5e0b2660f94262ea9b295fc3c6ab75682e6db44d6",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%205%20Pack.ini"
+    },
+    {
+      "name": "Variety 6 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7832,
+      "sha256": "34bc42c167d373e21596e0b8992fdb528825568f7f381223b2150283dbb588cb",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%206%20Pack.ini"
+    },
+    {
+      "name": "Variety 7 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7885,
+      "sha256": "5ffd688f68a61895a9b9b5039ea556edc9fce5c6254d7d6f6ca05e47ecf3540c",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%207%20Pack.ini"
+    },
+    {
+      "name": "Variety 8 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8188,
+      "sha256": "066df4d5d59236c2be8ce36c457293273364857f01ac34789355316037f96e56",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%208%20Pack.ini"
+    },
+    {
+      "name": "Variety 9 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8157,
+      "sha256": "42066b818779258d994d47e6a4eee964d856d57a9dce2a9f568cc77d731f49dc",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%209%20Pack.ini"
+    },
+    {
+      "name": "Variety 10 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7812,
+      "sha256": "b0aa73050a2a8e5ae7eb3ef8807c7b4ef7e92a7ac3292329241b2ef8bcd6ca8b",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2010%20Pack.ini"
+    },
+    {
+      "name": "Variety 11 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7767,
+      "sha256": "7f32adf7e2cdb2e308c5dfdf4ba8c04afeb236920d70db1300f4a3cfb2ba5fd3",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2011%20Pack.ini"
+    },
+    {
+      "name": "Variety 12 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7845,
+      "sha256": "f3be10371a89931a8738a45932759fff54f93dc3ae960654d47555bfd4317829",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2012%20Pack.ini"
+    },
+    {
+      "name": "Variety 13 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8068,
+      "sha256": "2864c04924be7763009fb6117c4e02e959b6c6aa6da8c489f03d5c2bf9564352",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2013%20Pack.ini"
+    },
+    {
+      "name": "Variety 14 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8173,
+      "sha256": "95d38ca8d5c5541b5936a5cacbdb7e00af1ac7cd674be4f36477e83c0e89d4f4",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2014%20Pack.ini"
+    },
+    {
+      "name": "Variety 15 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8251,
+      "sha256": "b9d05d20be54024114ed1d7557ea4ceeb8585be7fbf518f88a90000735a60551",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2015%20Pack.ini"
+    },
+    {
+      "name": "Variety 16 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7745,
+      "sha256": "f3876326e24d0e3d86ea80d14951ab8c3c93afefc65d93b116668f1d084deaf3",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2016%20Pack.ini"
+    },
+    {
+      "name": "Variety 17 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7653,
+      "sha256": "da1bc3955fcd2c47aa83726b1035344bcc1d4f1eba38467349f6cdb412ebf5a9",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2017%20Pack.ini"
+    },
+    {
+      "name": "Variety 18 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7711,
+      "sha256": "dc0c6122e3b7f0028db5f964f86c37811acfbb032d19c1ad764dced2faa2bb47",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2018%20Pack.ini"
+    },
+    {
+      "name": "Variety 19 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8115,
+      "sha256": "dd4a33aab3899ee65a771dfd4c7b94d08cdc55a803f7cafc0ef44c36860986fa",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2019%20Pack.ini"
+    },
+    {
+      "name": "Variety 20 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8223,
+      "sha256": "bfe89dcf2c90ef319a96deabb4796475d4191b298aa776c112a8a833a427e508",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2020%20Pack.ini"
+    },
+    {
+      "name": "Variety 21 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8208,
+      "sha256": "3699ac45ebee4a9f38fbabe3b4a84e7ee70917bdce623099983d0f4a482c9660",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2021%20Pack.ini"
+    },
+    {
+      "name": "Variety 22 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7920,
+      "sha256": "17ac9e3e9eb328d3d99d38899f885ff1a6bb5db70dc93bf5588248b0267372c3",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2022%20Pack.ini"
+    },
+    {
+      "name": "Variety 23 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7909,
+      "sha256": "34181aac4210ac004ff839f9d8cd1566cf7da89edbc49de204dbe6b2c3bd3988",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2023%20Pack.ini"
+    },
+    {
+      "name": "Variety 24 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7991,
+      "sha256": "4f65a65dc6eea9b50775412c126d9155eacb8d75faab553d7409d1e9497ddce5",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2024%20Pack.ini"
+    },
+    {
+      "name": "Variety 25 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7903,
+      "sha256": "f5884434c283684c4ce9cfaf538ac2f4219d9d33ceec9bbd6b43cd1a83347f0d",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2025%20Pack.ini"
+    },
+    {
+      "name": "Variety 26 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7955,
+      "sha256": "547053091c8329f92909cd43064a96a85f819664154558b3ed0a05e604a15cbb",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2026%20Pack.ini"
+    },
+    {
+      "name": "Variety 27 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8182,
+      "sha256": "570c19a3d2c9dc902bcbcef35f0ef41c298b8911511374e203560331c0f304c3",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2027%20Pack.ini"
+    },
+    {
+      "name": "Variety 28 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7745,
+      "sha256": "ee2cacefdce2dbdbfb0ef97c64d5f419a8226f4470cc15718f2fd6e09b206f82",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2028%20Pack.ini"
+    },
+    {
+      "name": "Variety 29 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7687,
+      "sha256": "429297bd043000269e6b5ac4a01d887bf4f76b1ec7a1d238d7cd0670a3f89f0f",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2029%20Pack.ini"
+    },
+    {
+      "name": "Variety 30 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7854,
+      "sha256": "71a36c92b9640a5665a26ec02bae579afd2d9b2e481748302435b0d41c159478",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2030%20Pack.ini"
+    },
+    {
+      "name": "Variety 31 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7928,
+      "sha256": "883d6e132384ba4e9777bc8a1d1906872db07f0c56edd9882d68a43845feaecf",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2031%20Pack.ini"
+    },
+    {
+      "name": "Variety 32 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8031,
+      "sha256": "4c3a56547b364941e14b077ac82c5e31d9419ec4546de6900fb2e8455c05ce06",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2032%20Pack.ini"
+    },
+    {
+      "name": "Variety 33 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7728,
+      "sha256": "1606ad3de00ae518dabfc30eda9b70a3812f8c037383cbd0d32f50f248cc1bbc",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2033%20Pack.ini"
+    },
+    {
+      "name": "Variety 34 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7579,
+      "sha256": "c9c7ef0dfb299d0fcb99a734b76423f8302a229d4b0f2a1ae41b8b4040322a29",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2034%20Pack.ini"
+    },
+    {
+      "name": "Variety 35 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7726,
+      "sha256": "2087a3fe6dc47f213158c24a0ba7ca8f6927f9d31cae25253fb40e2ec489eada",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2035%20Pack.ini"
+    },
+    {
+      "name": "Variety 36 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8015,
+      "sha256": "62e42877828bf6539cc83975ff36dace4ca47ef5d0841c4be512977a7802b501",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2036%20Pack.ini"
+    },
+    {
+      "name": "Variety 37 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8249,
+      "sha256": "6780386dbdc5a7cce62376f92f11a0ee58ee28a7145685aadf03bf5751254df8",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2037%20Pack.ini"
+    },
+    {
+      "name": "Variety 38 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8349,
+      "sha256": "cf026e29bc2be62eee0b52db24359ef2afd431a96df5f6bc7719986d97064c3b",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2038%20Pack.ini"
+    },
+    {
+      "name": "Variety 39 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7850,
+      "sha256": "fc3c5038263e72a96ee451f4cb50b7f5badd7caa626a79e4014e6a5f33c26667",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2039%20Pack.ini"
+    },
+    {
+      "name": "Variety 40 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 7775,
+      "sha256": "69ab3fa5f92ff34a000fdf1267247862ca023639f7e1e0c2fcd021abca1c9d2c",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2040%20Pack.ini"
+    },
+    {
+      "name": "Variety 41 Pack",
+      "author": "Vexed Development Team",
+      "levels": 60,
+      "size": 8022,
+      "sha256": "334817fb099ea7bf54fe645ea80e6e0c4650ad4d6a0c67ff82d327dd9c758dd6",
+      "url": "https://raw.githubusercontent.com/gn-maker/clean-vexed-packs/main/packs/Variety%2041%20Pack.ini"
+    }
+  ]
+}
