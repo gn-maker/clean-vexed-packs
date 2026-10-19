@@ -25,7 +25,7 @@ Each pack is an INI file: a `[General]` section (`Author`, `URL`, `Description`)
 
 ## Playing them
 
-The packs can be imported into Vexed-style games that read this format, such as Baffled. Baffled's Get Packs downloads them from here.
+The packs can be imported into Vexed-style games that read this format, such as Baffled. Baffled's Original Packs downloads them from here.
 
 ## The index
 

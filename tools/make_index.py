@@ -1,4 +1,4 @@
-"""Write index.json, the list of packs that Baffled's Get Packs reads.
+"""Write index.json, the list of packs that Baffled's Original Packs reads.
 
 Run from the repository root after changing packs/: python3 tools/make_index.py
 """
